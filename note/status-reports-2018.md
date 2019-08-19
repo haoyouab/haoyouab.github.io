@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /status-reports
+permalink: /status-reports-2018
 ---
 These are weekly reports I 've sent to [strace development mailing list][mailing-list]
 
