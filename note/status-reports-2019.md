@@ -15,6 +15,6 @@ These are weekly reports I 've sent to [strace development mailing list][mailing
 * [#9 of 12](https://lists.strace.io/pipermail/strace-devel/2019-July/008992.html)
 * [#10 of 12](https://lists.strace.io/pipermail/strace-devel/2019-August/009022.html)
 * [#11 of 12](https://lists.strace.io/pipermail/strace-devel/2019-August/009031.html)
-* [#12 of 12] TBD.
+* [#12 of 12](https://lists.strace.io/pipermail/strace-devel/2019-August/009046.html)
 
 [mailing-list]: https://lists.strace.io/pipermail/strace-devel/
